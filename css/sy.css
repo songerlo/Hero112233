@@ -1,0 +1,191 @@
+body,html,ul,li{
+				font-size: 14px;
+				color: #333;
+				font-family: "微软雅黑";
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			
+			img{display: block;}
+			
+			a:link,
+			a:hover,
+			a:visited {
+				text-decoration: none;
+			}
+			a{text-decoration: none;}
+		.pad0{padding: 0;}
+		.mar0{margin: 0;}
+		.fon12{font-size: 12px;}
+		.fon14{font-size: 14px;}
+		.fon16{font-size: 16px;}
+		.fon18{font-size: 18px;}
+		.fon20{font-size: 20px;}
+		.fon22{font-size: 22px;}
+		.fon24{font-size: 24px;}
+		.fon26{font-size: 26px;}
+		.fl{float: left;}
+		.fr{float: right;}
+		.padtb5{padding: 5px 0;}
+		.padtb10{padding: 10px 0;}
+		.padtb15{padding: 15px 0;}
+		.padtb20{padding: 20px 0;}
+		.padtb25{padding: 25px 0;}
+		.padtb30{padding: 30px 0;}
+		.martb5{margin: 5px 0;}
+		.martb10{margin: 10px 0;}
+		.martb15{margin: 15px 0;}
+		.martb20{margin: 20px 0;}
+		.martb25{margin: 25px 0;}
+		.martb30{margin: 30px 0;}
+		.pad5{padding: 5px;}
+		.pad10{padding: 10px;}
+		.pad15{padding: 15px;}
+		.pad20{padding: 20px;}
+		.pad25{padding: 25px;}
+	.swiper-container {
+        width: 100%;
+        height: 200px
+    }
+    .hezuo{height: 120px;}
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+    }
+    .swiper-slide img{width: 100%;}
+
+		.w100 {
+			width: 100%;
+			overflow: hidden;
+		}
+		.w100:after {
+			content: "";
+			clear: both;
+			display: block;
+			visibility: hidden;
+			height: 0;
+		}
+
+/*底部*/
+			
+			.w33 img {
+				margin: 10px auto;
+			}
+			
+			.w33 div {
+				text-align: center;
+			}
+			
+			.title {
+				width: 100%;
+				margin: 10px 0;
+				overflow: hidden;
+				box-sizing: border-box;
+				padding: 0 15px 0 10px;
+			}
+			
+			.title div:nth-child(1) {
+				float: left;
+				border-left: solid 4px #4CAE4C;
+				padding-left: 5px;
+				font-size: 16px;
+			}
+			
+			.title div:nth-child(2) {
+				float: right;
+			}
+			
+			.title div:nth-child(2) a {
+				float: right;
+				color: #666;
+			}
+			
+			.cp img {
+				margin: 0 auto;
+				max-width: 100%;
+			}
+			
+			.cp div {
+				text-align: center;
+				padding: 10px;
+			}
+			
+			.cp {
+				border: solid 2px #f2f2f2;
+			}
+			
+			.son {
+				cursor: ppointer;
+				margin: 10px 0;
+				overflow: hidden;
+				border-bottom: solid 2px #F2F2F2;
+				padding-bottom: 10px;
+			}
+			
+			.list1 img {
+				width: 100%;
+			}
+			
+			.list1 {
+				width: 35%;
+			}
+			
+			.list2 {
+				width: 60%;
+			}
+			
+			.list2 div:nth-child(1) {
+				width: 100%;
+				overflow: hidden;
+				white-space: nowrap;
+				text-overflow: ellipsis;
+				;
+				color: #333;
+				font-size: 15px;
+			}
+			
+			.list2 div:nth-child(2) {
+				line-height: 30px;
+				color: #999;
+				font-size: 12px;
+			}
+			
+			.list2 div:nth-child(3) {
+				white-space: nowrap;
+				text-overflow: ellipsis;
+				width: 100%;
+				overflow: hidden;
+				color: #666;
+				font-size: 12px;
+			}
+			.foot{background: #282828;}
+			.foot div{color: #E3E3E3;}
+			.kn div{ text-align: center; padding: 10px; font-size: 16px; border-bottom: solid 2px #67B168; width: 90px; margin: 10px auto;}
+			.hzhb{width: 50%; box-sizing: border-box; padding: 10px;float: left;}
+.hzhb img{width: 100%;}
+.bt{font-size: 18px; text-align: center; padding: 10px 0;}
+.sj{color: #999999;  text-align: center; line-height: 30px;}
+.nr{text-indent: 2em; line-height: 30px;}
+.wz img{max-width:  100%; margin: 10px auto;}
+.wz {margin: 10px 0;}
+.down {padding-top: 5px;}
+.nai li {float: left; color: #999999; margin-right: 5px; padding: 5px 0;}
+.nai li:nth-child(1){padding-left: 15px;}
+.nai li a{color:#999999}
+.nai{background: #F2F2F2; overflow: hidden;}
